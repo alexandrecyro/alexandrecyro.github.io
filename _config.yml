@@ -2,6 +2,6 @@ excerpt_separator: ""
 pygments: true
 markdown: kramdown
 title: Alexandre Cyro
-tagline: 
+tagline: desenvolvimento
 description: My awesome new site via <a href="https://tinypress.co/&quot; target=&quot;_blank">Tinypress</a>
 paginate: 5
